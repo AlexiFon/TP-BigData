@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "MapReduce/MapReduce/lib/hadoop-common-3.2.1.jar",
+        "MapReduce/MapReduce/lib/hadoop-mapreduce-client-core-3.2.1.jar"
+    ]
+}
